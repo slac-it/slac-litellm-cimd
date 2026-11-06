@@ -1,5 +1,5 @@
 {
-  "client_id": "https://github.io/slac-it/slac-litellm-cimd/ai-api-dev.json",
+  "client_id": "https://slac-it.github.io/slac-litellm-cimd/ai-api-dev.json",
   "client_name": "LiteLLM MCP Gateway",
   "redirect_uris": ["https://ai-api-dev.slac.stanford.edu/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
